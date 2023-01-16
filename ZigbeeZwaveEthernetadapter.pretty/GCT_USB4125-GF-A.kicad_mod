@@ -2031,4 +2031,9 @@
   (pad "S1" thru_hole oval (at -4.32 0.8) (size 0.8 1.6) (drill oval 0.6 1.2) (layers *.Cu) (tstamp 76bee32d-cbf7-4788-b7dd-955ba6736196))
   (pad "S1" thru_hole oval (at 4.32 0.8) (size 0.8 1.6) (drill oval 0.6 1.2) (layers *.Cu) (tstamp f37f46dd-20fd-4d8f-ba26-b8abdae8fc30))
   (pad "S1" thru_hole oval (at -4.32 -3) (size 0.8 1.6) (drill oval 0.6 1.2) (layers *.Cu) (tstamp f53b40bf-1f5d-4ac0-8ec1-8a0a9a1f1876))
+  (model "${KIPRJMOD}/data/Components/USB-C/USB4125-GF-A.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
