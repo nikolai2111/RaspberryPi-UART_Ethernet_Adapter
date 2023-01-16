@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ZigbeeZwaveEthernetadapter")(type "KiCad")(uri "${KIPRJMOD}/ZigbeeZwaveEthernetadapter.kicad_sym")(options "")(descr ""))
+)
