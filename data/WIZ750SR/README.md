@@ -8,8 +8,8 @@
 #### 1x6 ISP Connector
 ![1x6 ISP Connector](https://docs.wiznet.io/assets/images/wiz750sr-isp-f544b80749a47dfbf23d28e2fe31d506.png)
 
-#### 1x2 Supervisor Jumper / 1x6 Expansion GPIO & APP BOOT
-![1x2 Supervisor Jumper / 1x6 Expansion GPIO & APP BOOT](https://docs.wiznet.io/assets/images/wiz750sr_wdt_gpio_20160628-251a67c75cf55bf0f33cc7e15af629a4.png)
+#### 1x6 Expansion GPIO & APP BOOT
+![1x6 Expansion GPIO & APP BOOT](https://docs.wiznet.io/assets/images/wiz750sr_expansiongpio_exp_rev1.2-aecc044373aa98845172569763a1a70d.png)
 
 ### WIZ750SR Dimension
  -  45mm x 30mm (PCB board size)
