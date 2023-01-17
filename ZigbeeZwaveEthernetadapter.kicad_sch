@@ -2221,7 +2221,7 @@
     (uuid ce0c3e64-c9ac-47d9-8ade-14119a95fc68)
     (property "Reference" "U1" (id 0) (at 177.8 93.98 0))
     (property "Value" "TLV1117-33" (id 1) (at 177.8 96.52 0))
-    (property "Footprint" "" (id 2) (at 177.8 101.6 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2" (id 2) (at 177.8 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tlv1117.pdf" (id 3) (at 177.8 101.6 0)
