@@ -2188,7 +2188,7 @@
     (property "Value" "Barrel_Jack" (id 1) (at 231.14 135.89 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "connectors:PJ-037A" (id 2) (at 234.95 143.256 0)
+    (property "Footprint" "connectors:CUI_PJ-037A" (id 2) (at 234.95 143.256 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 234.95 143.256 0)
@@ -2770,7 +2770,7 @@
     (property "Value" "USB4125-GF-A" (id 1) (at 231.14 33.02 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "ZigbeeZwaveEthernetadapter:GCT_USB4125-GF-A" (id 2) (at 241.3 49.53 0)
+    (property "Footprint" "connectors:GCT_USB4125-GF-A" (id 2) (at 241.3 49.53 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 238.76 45.72 0)
@@ -2881,13 +2881,13 @@
       (reference "D2") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/45ccafcf-91a6-475a-88ef-bc1903af912b"
-      (reference "J1") (unit 1) (value "Barrel_Jack") (footprint "connectors:PJ-037A")
+      (reference "J1") (unit 1) (value "Barrel_Jack") (footprint "connectors:CUI_PJ-037A")
     )
     (path "/0f5191d7-13d2-4136-8d2a-cb1379a2e5b4"
       (reference "J2") (unit 1) (value "USB_B_Micro") (footprint "connectors:AMPHENOL_10118194-0001LF")
     )
     (path "/f71369f0-fe7d-4e5f-876d-a5b0df357ba9"
-      (reference "J3") (unit 1) (value "USB4125-GF-A") (footprint "ZigbeeZwaveEthernetadapter:GCT_USB4125-GF-A")
+      (reference "J3") (unit 1) (value "USB4125-GF-A") (footprint "connectors:GCT_USB4125-GF-A")
     )
     (path "/3b55a99d-348c-40f8-9a69-dea028a2f9d2"
       (reference "J11") (unit 1) (value "Conn_02x06_Odd_Even") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x06_P2.54mm_Vertical")
