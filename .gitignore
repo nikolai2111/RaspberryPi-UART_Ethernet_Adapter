@@ -28,3 +28,10 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Auto generated files from KiKit Plugin
+*_Panel.kicad_pro 
+*panel*.kicad_pro
+
+# Exported Gerber files (directory)
+Gerber_*/
