@@ -5023,7 +5023,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part No." "TLJP107M006R5400"
+		(property "Manufacturer Part No." "CL21A107MQYNNWE"
 			(at 127 146.05 0)
 			(effects
 				(font
@@ -5041,7 +5041,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor Part No." "478-5260-1-ND"
+		(property "Vendor Part No." "1276-CL21A107MQYNNWECT-ND"
 			(at 127 146.05 0)
 			(effects
 				(font
