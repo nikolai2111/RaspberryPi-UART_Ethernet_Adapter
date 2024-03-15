@@ -7645,7 +7645,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connectors_User:GCT_USB4125-GF-A"
+		(property "Footprint" "Connector_User:GCT_USB4125-GF-A"
 			(at 241.3 58.42 0)
 			(effects
 				(font
