@@ -13,13 +13,13 @@ The board or as a kit (incl. [WIZ750SR](https://docs.wiznet.io/Product/S2E-Modul
 
 ![Front](doc/images/Front.jpg)
 
-<p align="right">(<a href="https://github.com/nikolai2111/RaspberryPi-UART_Ethernet_Adapter#readme-top">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/nikolai2111/RaspberryPi-UART_Ethernet_Adapter#About The Project">back to top</a>)</p>
 
 
 ### Built With
 * [KiCAD 8.0](https://www.kicad.org/)
 
-<p align="right">(<a href="https://github.com/nikolai2111/RaspberryPi-UART_Ethernet_Adapter#readme-top">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/nikolai2111/RaspberryPi-UART_Ethernet_Adapter#About The Project">back to top</a>)</p>
 
 
 <!-- GETTING STARTED -->
@@ -49,7 +49,7 @@ The board or as a kit (incl. [WIZ750SR](https://docs.wiznet.io/Product/S2E-Modul
 
 ![Serial Port](doc/images/Serial-Port.png)
 
-<p align="right">(<a href="https://github.com/nikolai2111/RaspberryPi-UART_Ethernet_Adapter#readme-top">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/nikolai2111/RaspberryPi-UART_Ethernet_Adapter#About The Project">back to top</a>)</p>
 
 
 <!-- USAGE EXAMPLES -->
@@ -58,7 +58,7 @@ Add, remove and rename devices like in Home Assistant and use the enteties like 
 
 Alternative other TTL-UART devices could be connected to the Raspberry Pi UART to Ethernet Adapter and used from remote.
 
-<p align="right">(<a href="https://github.com/nikolai2111/RaspberryPi-UART_Ethernet_Adapter#readme-top">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/nikolai2111/RaspberryPi-UART_Ethernet_Adapter#About The Project">back to top</a>)</p>
 
 
 <!-- ROADMAP -->
@@ -69,7 +69,7 @@ Alternative other TTL-UART devices could be connected to the Raspberry Pi UART t
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="https://github.com/nikolai2111/RaspberryPi-UART_Ethernet_Adapter#readme-top">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/nikolai2111/RaspberryPi-UART_Ethernet_Adapter#About The Project">back to top</a>)</p>
 
 
 <!-- CONTRIBUTING -->
@@ -86,7 +86,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="https://github.com/nikolai2111/RaspberryPi-UART_Ethernet_Adapter#readme-top">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/nikolai2111/RaspberryPi-UART_Ethernet_Adapter#About The Project">back to top</a>)</p>
 
 
 <!-- LICENSE -->
@@ -94,7 +94,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the [CERN-OHL-P](LICENSE) License. See `LICENSE` for more information. The license for all other sources remains the same and is still valid.
 
-<p align="right">(<a href="https://github.com/nikolai2111/RaspberryPi-UART_Ethernet_Adapter#readme-top">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/nikolai2111/RaspberryPi-UART_Ethernet_Adapter#About The Project">back to top</a>)</p>
 
 
 <!-- CONTACT -->
@@ -104,11 +104,11 @@ Nikolai Zoller - [nikolai.zoller@hotmail.com](mailto:nikolai.zoller@hotmail.com)
 
 Project Link: [https://github.com/nikolai2111/RaspberryPi-UART_Ethernet_Adapter](https://github.com/nikolai2111/RaspberryPi-UART_Ethernet_Adapter)
 
-<p align="right">(<a href="https://github.com/nikolai2111/RaspberryPi-UART_Ethernet_Adapter#readme-top">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/nikolai2111/RaspberryPi-UART_Ethernet_Adapter#About The Project">back to top</a>)</p>
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 The main concept was initially proposed by an anonymous colleague. The development, production, and sale are carried out with their consent.
 
-<p align="right">(<a href="https://github.com/nikolai2111/RaspberryPi-UART_Ethernet_Adapter#readme-top">back to top</a>)</p>
+<p align="right">(<a href="https://github.com/nikolai2111/RaspberryPi-UART_Ethernet_Adapter#About The Project">back to top</a>)</p>
