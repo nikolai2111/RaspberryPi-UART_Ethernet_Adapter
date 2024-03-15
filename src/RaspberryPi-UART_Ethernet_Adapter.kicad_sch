@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Raspberry Pi UART to Ethernet Adapter")
-		(date "2024-03-03")
-		(rev "A")
+		(date "2024-03-15")
+		(rev "B")
 		(company "ElektroNik Zoller")
 		(comment 1 "Nikolai Zoller")
 		(comment 4 "CERN-OHL-P")
@@ -4636,7 +4636,7 @@
 			(uuid "b9e62234-a8f0-445e-99eb-65f765a90d41")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "#PWR0121")
 					(unit 1)
@@ -4702,7 +4702,7 @@
 			(uuid "45d939a4-d7d6-4400-8f0e-29bc84bf269c")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "#PWR0116")
 					(unit 1)
@@ -4799,7 +4799,7 @@
 			(uuid "7dc904ef-85cc-420a-b8d7-b4ab0b68de0f")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "JP101")
 					(unit 1)
@@ -4863,7 +4863,7 @@
 			)
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "H106")
 					(unit 1)
@@ -4960,7 +4960,7 @@
 			(uuid "b51c434b-293f-4965-8c59-85f2aa928923")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "D102")
 					(unit 1)
@@ -5057,7 +5057,7 @@
 			(uuid "3f799ff3-758c-4485-a235-ec5463f83398")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "C101")
 					(unit 1)
@@ -5121,7 +5121,7 @@
 			)
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "H107")
 					(unit 1)
@@ -5187,7 +5187,7 @@
 			(uuid "f0587dfe-a4cc-4593-b851-1d8a0f633584")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "#PWR0119")
 					(unit 1)
@@ -5295,7 +5295,7 @@
 			(uuid "c6cd0097-eac9-4e26-8a19-ef86281497e1")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "J104")
 					(unit 1)
@@ -5392,7 +5392,7 @@
 			(uuid "e9bf0a8a-b942-4d25-99b4-72c19eedfc08")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "JP103")
 					(unit 1)
@@ -5458,7 +5458,7 @@
 			(uuid "821d40c7-7962-45b1-9acb-4291979b9699")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "#PWR0124")
 					(unit 1)
@@ -5555,7 +5555,7 @@
 			(uuid "2b6bf603-5fde-48bf-be04-63f2bde49b99")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "D101")
 					(unit 1)
@@ -5652,7 +5652,7 @@
 			(uuid "bd1d02a4-74cf-45f3-ba03-293a6d0e54c6")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "JP102")
 					(unit 1)
@@ -5749,7 +5749,7 @@
 			(uuid "e5f8ceef-c3a3-487f-a6ba-fc90f493ee8a")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "J108")
 					(unit 1)
@@ -5846,7 +5846,7 @@
 			(uuid "6e9982cd-2ee1-4286-a8fb-b0aed50d2fe0")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "R101")
 					(unit 1)
@@ -5943,7 +5943,7 @@
 			(uuid "da0634be-4a1b-41f3-ae0f-c91fbb956a9d")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "R102")
 					(unit 1)
@@ -6009,7 +6009,7 @@
 			(uuid "896fd1dc-43f3-4c95-97d5-45716bc24700")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "#PWR0107")
 					(unit 1)
@@ -6075,7 +6075,7 @@
 			(uuid "2458653e-8b7e-46c2-ac5e-99726db97672")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "#PWR0104")
 					(unit 1)
@@ -6139,7 +6139,7 @@
 			)
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "H105")
 					(unit 1)
@@ -6205,7 +6205,7 @@
 			(uuid "6bac8f3d-9f36-49d1-afa9-000ce2d2ec7c")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "#PWR0113")
 					(unit 1)
@@ -6270,7 +6270,7 @@
 			(uuid "2ce9d0bf-5943-4824-9899-0692aca7a02e")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "#PWR0118")
 					(unit 1)
@@ -6336,7 +6336,7 @@
 			(uuid "063db761-2178-45b6-80b2-4bf07c0b7911")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "#PWR0112")
 					(unit 1)
@@ -6402,7 +6402,7 @@
 			(uuid "389d0c5f-550c-403d-ac5d-86237b740b5e")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "#PWR0103")
 					(unit 1)
@@ -6466,7 +6466,7 @@
 			)
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "H108")
 					(unit 1)
@@ -6530,7 +6530,7 @@
 			)
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "H101")
 					(unit 1)
@@ -6596,7 +6596,7 @@
 			(uuid "e7f80d47-9919-44fe-9365-e6be0490b0ec")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "#PWR0101")
 					(unit 1)
@@ -6662,7 +6662,7 @@
 			(uuid "9a8b5743-b6c7-4d64-afc5-95178b07c3d3")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "#PWR0102")
 					(unit 1)
@@ -6728,7 +6728,7 @@
 			(uuid "bb9b66a6-7bb5-4856-835a-ce1440d72b7f")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "#PWR0122")
 					(unit 1)
@@ -6825,7 +6825,7 @@
 			(uuid "d1f1ec97-4c48-4e24-a45b-c193006f1224")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "R104")
 					(unit 1)
@@ -6950,7 +6950,7 @@
 			(uuid "e378584d-0f40-4b15-9087-66e85aca50e3")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "J101")
 					(unit 1)
@@ -7016,7 +7016,7 @@
 			(uuid "631cc295-603c-4fc2-a110-0ea0ac790026")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "#PWR0120")
 					(unit 1)
@@ -7082,7 +7082,7 @@
 			(uuid "19b3b185-fb60-41e7-8f61-08efd0b8580c")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "#PWR0106")
 					(unit 1)
@@ -7175,7 +7175,7 @@
 			(uuid "2e5bf65e-93ef-4538-8139-5e1c1d450e12")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "#PWR0105")
 					(unit 1)
@@ -7239,7 +7239,7 @@
 			)
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "H102")
 					(unit 1)
@@ -7348,7 +7348,7 @@
 			(uuid "f5ab18a0-68e0-498d-96d0-0d96e3672b26")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "J107")
 					(unit 1)
@@ -7414,7 +7414,7 @@
 			(uuid "56767f4a-6461-4dff-ac30-c34abe56c65f")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "#PWR0114")
 					(unit 1)
@@ -7480,7 +7480,7 @@
 			(uuid "819a4a07-330c-4113-8068-146b381800c0")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "#PWR0123")
 					(unit 1)
@@ -7546,7 +7546,7 @@
 			(uuid "2df4f7d7-3e2c-45f6-8096-9f5b25fb4bc2")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "#PWR0108")
 					(unit 1)
@@ -7610,7 +7610,7 @@
 			)
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "H103")
 					(unit 1)
@@ -7721,7 +7721,7 @@
 			(uuid "2b17eb2b-b2b6-4977-84fa-0fc045612b68")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "J106")
 					(unit 1)
@@ -7787,7 +7787,7 @@
 			(uuid "e9b267fb-7e33-4a6d-bdd6-0b3d443bd45f")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "#PWR0117")
 					(unit 1)
@@ -7853,7 +7853,7 @@
 			(uuid "b86dcbac-3b4d-427d-baea-d0309917ac6d")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "#PWR0110")
 					(unit 1)
@@ -7952,7 +7952,7 @@
 			(uuid "939b4ed3-bc2d-456f-85a7-f06cfa830bb3")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "U101")
 					(unit 1)
@@ -8018,7 +8018,7 @@
 			(uuid "0919d76f-7199-491e-a653-dac194a374bd")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "#PWR0111")
 					(unit 1)
@@ -8115,7 +8115,7 @@
 			(uuid "7755196b-1e7d-4365-9acd-6467d162b42a")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "C102")
 					(unit 1)
@@ -8179,7 +8179,7 @@
 			)
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "H104")
 					(unit 1)
@@ -8245,7 +8245,7 @@
 			(uuid "15fd82ac-134e-4c46-8dd5-45fe0a19dc83")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "#PWR0115")
 					(unit 1)
@@ -8311,7 +8311,7 @@
 			(uuid "fa8d49a9-c555-4060-8ceb-98b085972412")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "#PWR0109")
 					(unit 1)
@@ -8372,7 +8372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part No." "RS2-10-G"
+		(property "Manufacturer Part No." "PH2-10-UA"
 			(at 138.43 76.2 0)
 			(effects
 				(font
@@ -8390,7 +8390,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor Part No." "2057-RS2-10-G-ND"
+		(property "Vendor Part No." "2057-PH2-10-UA-ND"
 			(at 138.43 76.2 0)
 			(effects
 				(font
@@ -8430,7 +8430,7 @@
 			(uuid "0a6b981a-11b7-4d7a-ad4d-9ca2358dd088")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "J105")
 					(unit 1)
@@ -8527,7 +8527,7 @@
 			(uuid "8d2e8d3c-3288-4c6b-8cdb-c43cea39a4c5")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "R103")
 					(unit 1)
@@ -8635,7 +8635,7 @@
 			(uuid "5c84150e-507c-4ed1-84dd-8e6c4fbc9a9b")
 		)
 		(instances
-			(project "ZigbeeZwaveEthernetadapter"
+			(project "RaspberryPi-UART_Ethernet_Adapter"
 				(path "/bfaac094-0365-40a4-8b7a-d4d62ace544e"
 					(reference "J102")
 					(unit 1)
