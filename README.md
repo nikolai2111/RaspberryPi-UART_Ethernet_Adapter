@@ -63,8 +63,8 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#Configure WIZ750SR">Installation</a></li>
-        <li><a href="#Confgure Z-Wave JS UI">Installation</a></li>
+        <li><a href="#Configure WIZ750SR">Configure WIZ750SR</a></li>
+        <li><a href="#Confgure Z-Wave JS UI">Confgure Z-Wave JS UI</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -203,7 +203,7 @@ The main concept was initially proposed by an anonymous colleague. The developme
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+Source: [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
