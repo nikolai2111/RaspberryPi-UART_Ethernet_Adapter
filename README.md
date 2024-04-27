@@ -29,9 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/nikolai2111/RaspberryPi-UART_Ethernet_Adapter">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  <a href="https://github.com/nikolai2111/RaspberryPi-UART_Ethernet_Adapter"></a>
 
 <h3 align="center">Raspberry Pi UART to Ethernet Adapter</h3>
 
