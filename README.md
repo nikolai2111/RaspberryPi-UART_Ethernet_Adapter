@@ -85,10 +85,10 @@ This adapter board enables the creation of a stand-alone, network-compatible dev
 
 The adapter board was initially designed to connect the [RaZberry 7 Pro](https://z-wave.me/products/razberry/#slide-1) to [Home Assistant](https://www.home-assistant.io/) via TCP, without using a Raspberry Pi as a server. It can also be used with any Raspberry Pi daughterboard that only needs the TTL-UART interface. However, the following README refers to the use of the [RaZberry 7 Pro](https://z-wave.me/products/razberry/#slide-1) with [Home Assistant](https://www.home-assistant.io/). It is possible to map three GPIOs to the header, although this has not been tested yet.
 
-The board or as a kit (incl. [WIZ750SR](https://docs.wiznet.io/Product/S2E-Module/WIZ750SR)) can be purchased here. The board is available with three power supply options (power supply not inlcuded):
+The board or as a kit (incl. [WIZ750SR](https://docs.wiznet.io/Product/S2E-Module/WIZ750SR)) can be purchased [here](https://www.tindie.com/products/nikolai2111/raspberry-pi-uart-to-ethernet-adapter/). The board is available with three power supply options (power supply not inlcuded):
 * [Barrel Jack 2.1x5.5 mm](https://www.digikey.com/en/products/detail/cui-devices/PJ-037A/1644545)
-* USB Micro
-* USB C
+* [USB Micro](https://www.digikey.de/de/products/detail/amphenol-cs-fci/10118194-0001LF/2785389)
+* [USB C](https://www.digikey.ch/de/products/detail/gct/USB4125-GF-A/13547388)
 
 ![Front](doc/images/Front.jpg)
 
